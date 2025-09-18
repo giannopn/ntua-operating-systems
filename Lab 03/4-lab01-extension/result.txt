@@ -1,0 +1,1 @@
+The character 'b' appears 14 times in file text-s.txt.
